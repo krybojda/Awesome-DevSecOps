@@ -15,3 +15,5 @@
 [link](https://git-scm.com/book/pl/v2)
 7. Notatki z kluczowymi info do git - 
 [link](https://github.com/bogdanpolak/nauka-gita)
+8. Example good readme - 
+[link](https://github.com/Mrokus95/SchoolManagmentApp)
